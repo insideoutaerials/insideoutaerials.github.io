@@ -1,0 +1,7 @@
+# flyctl launch added from themes/hugo-split-theme/.gitignore
+themes/hugo-split-theme/**/.DS_Store
+themes/hugo-split-theme/**/Thumbs.db
+themes/hugo-split-theme/**/public
+themes/hugo-split-theme/**/sitespeed-result
+themes/hugo-split-theme/**/.hugo_build.lock
+fly.toml
