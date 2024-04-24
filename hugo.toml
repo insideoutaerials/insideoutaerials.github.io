@@ -1,4 +1,4 @@
-# baseURL = 
+baseURL = "http://insideoutaerials.com/"
 languageCode = 'en-us'
 title = 'Inside Out Aerials'
 # theme = "port-hugo"
