@@ -11,9 +11,9 @@ favicon = "static/favicon.ico"
   file = "static/background.jpg"
   # position = "center center"
 
-[params.visual.video]
-  mute = true
-  file = "static/ab.mp4"
+# [params.visual.video]
+  # mute = true
+  # file = "static/ab.mp4"
   # youtubeId = "dk9uNWPP7EA"
 
 # Links List #1
