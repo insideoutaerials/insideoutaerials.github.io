@@ -6,9 +6,9 @@ theme = "hugo-split-theme"
 
 favicon = "static/favicon.ico"
 
-[[params.visual.image]]
+# [[params.visual.image]]
   # enable = true
-  file = "static/background.jpg"
+  # file = "static/background.jpg"
   # position = "center center"
 
 # [params.visual.video]
