@@ -6,9 +6,14 @@ theme = "hugo-split-theme"
 
 favicon = "static/favicon.ico"
 
+[[params.visual.image]]
+  enable = true
+  file = "static/background.jpg"
+  position = "center center"
+
 [params.visual.video]
   mute = true
-  file = "static/videos/ab.mp4"
+  file = "static/ab.mp4"
   # youtubeId = "dk9uNWPP7EA"
 
 # Links List #1
