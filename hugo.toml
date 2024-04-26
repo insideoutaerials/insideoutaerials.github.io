@@ -23,7 +23,7 @@ favicon = "static/favicon.ico"
 
     [[params.links.list1.link]]
       text = "Email"
-      url = "insideoutaerials@gmail.com"
+      url = "mailto:insideoutaerials@gmail.com"
       new_tab = true # Default, open at same tab
 
     # [[params.links.list1.link]]
