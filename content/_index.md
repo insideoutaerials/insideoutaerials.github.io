@@ -16,4 +16,4 @@ Experience the full spectrum of our services: from stunning aerial imagery to im
 [Book your aerial experience now and let's make magic happen. ✨](mailto:insideoutaerials@gmail.com)
 
 <!--[![Talk To Us]("https://www.flaticon.com/free-icon/email_2989993")](mailto:insideoutaerials@gmail.com)-->
-[Say Hi](mailto:insideoutaerials@gmail.com)
+<!--[Say Hi](mailto:insideoutaerials@gmail.com)-->
