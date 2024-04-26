@@ -9,7 +9,7 @@ favicon = "static/favicon.ico"
 [[params.visual.image]]
   # enable = true
   file = "static/background.jpg"
-  position = "center center"
+  # position = "center center"
 
 [params.visual.video]
   mute = true
