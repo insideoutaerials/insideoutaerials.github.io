@@ -8,11 +8,11 @@ favicon = "static/favicon.ico"
 
 [[params.visual.image]]
   enable = false
-  ...
+
 [params.visual.video]
   enable = true
   mute = true
-  file = "videos/background.mp4"
+  file = "videos/ab.m4v"
   # youtubeId = "dk9uNWPP7EA"
 
 # Links List #1
