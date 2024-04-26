@@ -13,7 +13,7 @@ Where innovation and artistry collide to celebrate its unique charm, fostering p
 
 Experience the full spectrum of our services: from stunning aerial imagery to immersive app and website development, let us elevate your digital presence to new heights!
 
-Book your aerial experience now and let's make magic happen. ✨ 
+[Book your aerial experience now and let's make magic happen. ✨](mailto:insideoutaerials@gmail.com)
 
 <!--[![Talk To Us]("https://www.flaticon.com/free-icon/email_2989993")](mailto:insideoutaerials@gmail.com)-->
-[![Let's Talk]("https://www.freepik.com/icon/email_8160033#fromView=search&page=1&position=12&uuid=d8f036cc-da23-403f-a23a-1d089220cb69")](mailto:insideoutaerials@gmail.com)
+[Say Hi](mailto:insideoutaerials@gmail.com)
