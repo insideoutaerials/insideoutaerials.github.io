@@ -9,7 +9,7 @@ tagline = "Media. Marketing. Applications."
 <!-- _Inside Out Aerials empowers communities by showcasing their unique charm through innovative aerial videography and photography. 
 Our mission is to elevate local identity, fostering connection and pride!_ -->
 
-Discover the essence of your community with Inside Out Aerials, where innovation and artistry collide to celebrate its unique charm, fostering pride and connection through breathtaking imagery.
+Where innovation and artistry collide to celebrate its unique charm, fostering pride and connection through breathtaking imagery.
 
 Experience the full spectrum of our services: from stunning aerial imagery to immersive app and website development, let us elevate your digital presence to new heights!
 
