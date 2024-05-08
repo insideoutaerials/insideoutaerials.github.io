@@ -1,81 +1,110 @@
 baseURL = "http://insideoutaerials.com/"
 languageCode = 'en-us'
 title = 'Inside Out Aerials'
-# theme = "port-hugo"
 theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
+disableHugoGeneratorInject = true
 
-favicon = "static/favicon.ico"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
 
-# [[params.visual.image]]
-  # enable = true
-  # file = "static/background.jpg"
-  # position = "center center"
+[params]
 
-# [params.visual.video]
-  # mute = true
-  # file = "static/ab.mp4"
-  # youtubeId = "dk9uNWPP7EA"
+  # Metadata for search engines and social sharing
+  author = "Timothy Elems"
+  description = ""
+  shareImage = "images/social.jpg"
+  twitterHandle = "onepagelove"
 
-# Links List #1
-[[params.links]]
-  [params.links.list1]
-    # heading = "Connect"
 
-    # [[params.links.list1.link]]
-    #   text = "Blog"
-    #   url = "#"
-    #   new_tab = true # new tab
+  favicon = "static/favicon.ico"
+  
+  # Section - Visual
+  [params.visual]
 
-    [[params.links.list1.link]]
-      text = "Email"
-      url = "mailto:insideoutaerials@gmail.com"
-      new_tab = true # Default, open at same tab
+    # # Image
+    # [params.visual.image]
+    #   enable = false
+    #   file = "images/background.jpg"
+    #   position = "center center"
 
-    # [[params.links.list1.link]]
-    #   text = "Newsletter"
-    #   url = "#"
-    #   new_tab = true
-
-# Links List #2
-[[params.links]]
-  [params.links.list2]
-    # heading = "Socials"
-
-    [[params.links.list2.link]]
-      text = "LinkedIn"
-      url = "https://www.linkedin.com/company/inside-out-aerials"
-      new_tab = true # new tab
-
-    # [[params.links.list2.link]]
-    #   text = "YouTube"
-    #   url = "https://www.youtube.com/@Inside_Out_Aerials"
-    #   new_tab = true # Default, open at same tab
-
-    # [[params.links.list2.link]]
-    #   text = "Space Filler"
-    #   url = "#"
-    #   new_tab = true
-
-# Links List #3
-[[params.links]]
-  [params.links.list3]
-    # heading = "Connect"
-
-    # [[params.links.list3.link]]
-    #   text = "Blog"
-    #   url = "#"
-    #   new_tab = true # new tab
-
-    [[params.links.list3.link]]
-      text = "YouTube"
-      url = "https://www.youtube.com/@Inside_Out_Aerials"
-      new_tab = true # Default, open at same tab
-
-    # [[params.links.list3.link]]
-    #   text = "Newsletter"
-    #   url = "#"
-    #   new_tab = true
-
+    # Video
+    [params.visual.video]
+      enable = true
+      mute = true
+      # file = "videos/background.mp4"
+      file = "static/ab.mp4"
+      # youtubeId = "dk9uNWPP7EA"  
+  # [[params.visual.image]]
+    # enable = true
+    # file = "static/background.jpg"
+    # position = "center center"
+  
+  # [params.visual.video]
+    # mute = true
+    # file = "static/ab.mp4"
+    # youtubeId = "dk9uNWPP7EA"
+  
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      # heading = "Connect"
+  
+      # [[params.links.list1.link]]
+      #   text = "Blog"
+      #   url = "#"
+      #   new_tab = true # new tab
+  
+      [[params.links.list1.link]]
+        text = "Email"
+        url = "mailto:insideoutaerials@gmail.com"
+        new_tab = true # Default, open at same tab
+  
+      # [[params.links.list1.link]]
+      #   text = "Newsletter"
+      #   url = "#"
+      #   new_tab = true
+  
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      # heading = "Socials"
+  
+      [[params.links.list2.link]]
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/company/inside-out-aerials"
+        new_tab = true # new tab
+  
+      # [[params.links.list2.link]]
+      #   text = "YouTube"
+      #   url = "https://www.youtube.com/@Inside_Out_Aerials"
+      #   new_tab = true # Default, open at same tab
+  
+      # [[params.links.list2.link]]
+      #   text = "Space Filler"
+      #   url = "#"
+      #   new_tab = true
+  
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      # heading = "Connect"
+  
+      # [[params.links.list3.link]]
+      #   text = "Blog"
+      #   url = "#"
+      #   new_tab = true # new tab
+  
+      [[params.links.list3.link]]
+        text = "YouTube"
+        url = "https://www.youtube.com/@Inside_Out_Aerials"
+        new_tab = true # Default, open at same tab
+  
+      # [[params.links.list3.link]]
+      #   text = "Newsletter"
+      #   url = "#"
+      #   new_tab = true
+  
 
 
 copyright = "&copy;2024 Inside Out Aerials"
