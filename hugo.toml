@@ -109,9 +109,9 @@
 
 # copyright = "&copy;2024 Inside Out Aerials"
 # Site settings
-baseURL = ""
+baseURL = "http://insideoutaerials.com/"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Inside Out Aerials"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
 disableHugoGeneratorInject = true
@@ -130,8 +130,8 @@ copyright = "&copy;2024 Inside Out Aerials"
 
   # Metadata for search engines and social sharing
   author = "Tim Elems"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
-  shareImage = "images/social.jpg"
+  description = "Inside Out Aerials empowers communities by showcasing their unique charm through innovative aerial videography and photography. Our mission is to elevate local identity, fostering connection and pride!"
+  shareImage = "images/background.jpg"
   twitterHandle = "onepagelove"
 
   # Favicon
